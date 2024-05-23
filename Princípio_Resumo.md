@@ -1,19 +1,16 @@
 # App para Análise Estatstica
 
+<h3>Title:</h3>"Descrição do Aplicativo StatEdu" 
 
-## title: 
-  "Descrição do Aplicativo StatEdu"
-## author: 
-  "Equipe de Desenvolvimento"
-##date: 
-  "2024-05-23"
-##output: 
-  html_document
+<h3> Author: </h3> "FelpzFagundez"
+
+<h3>Date:</h3> "2024-05-23"
+
+<h3>Linguagens</h3> :"R-Python"
+
+<h3>Nome do Aplicativo:</h3>  **StatEdu**
 
 
-## Nome do Aplicativo
-
-**StatEdu**
 
 ## Plataforma
 
