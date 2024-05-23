@@ -1,11 +1,11 @@
 # App para Análise Estatstica
 
----
+
 title: "Descrição do Aplicativo StatEdu"
 author: "Equipe de Desenvolvimento"
 date: "2024-05-23"
 output: html_document
----
+
 
 ## Nome do Aplicativo
 
